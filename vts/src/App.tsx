@@ -29,7 +29,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Expression
+          Expression & Laughs
         </a>
       </header>
       {/* <Route path='/projects'>
