@@ -1,4 +1,4 @@
-// import React from 'react';
+import React from 'react';
 // import { Route } from 'react-router-dom';
 
 // import Projects from './Components/Projects'
@@ -21,7 +21,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Let's Chat
+          Let's Chat: Feel free to view some of my projects!
         </a>
         <a
           className="App-link"
