@@ -4,7 +4,7 @@ export default function Projects() {
     const tester = 'Test'
     return(
         <div>
-            <h1>{tester}</h1>
+            <h1>`This is a {tester}, running variables inline.</h1>
         </div>
     );
 }
