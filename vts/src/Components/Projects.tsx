@@ -5,6 +5,7 @@ export default function Projects() {
     return(
         <div>
             <h1>`This is a {tester}, running variables inline.</h1>
+            <button>Default Button for Testing</button>
         </div>
     );
 }
