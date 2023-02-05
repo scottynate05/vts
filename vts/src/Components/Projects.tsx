@@ -6,6 +6,9 @@ export default function Projects() {
         <div>
             <h1>`This is a {tester}, running variables inline.</h1>
             <button>Default Button for Testing</button>
+            <li>
+                List of Projects from github.
+            </li>
         </div>
     );
 }
