@@ -30,6 +30,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Expression & Laughs (Humor/Memes)
+          Personal Twitter
         </a>
       </header>
       {/* <Route path='/projects'>
